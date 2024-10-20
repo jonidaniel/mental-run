@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="9" height="549" tilewidth="32" tileheight="32" infinite="0" nextlayerid="6" nextobjectid="1">
+ <editorsettings>
+  <export target="." format="tmx"/>
+ </editorsettings>
+ <tileset firstgid="1" name="hallway_floor_left" tilewidth="32" tileheight="32" tilecount="10" columns="2">
+  <image source="HallwayFloorLeft.png" width="64" height="160"/>
+ </tileset>
+ <tileset firstgid="11" name="Hallway_Floor_Right" tilewidth="32" tileheight="32" tilecount="10" columns="2">
+  <image source="HallwayFloorRight.png" width="64" height="160"/>
+ </tileset>
+ <tileset firstgid="21" name="Hallway_Rug" tilewidth="32" tileheight="32" tilecount="3" columns="3">
+  <image source="HallwayRug.png" width="96" height="32"/>
+ </tileset>
+ <tileset firstgid="24" name="Drawer1" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="Drawer1.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="28" name="drawer_right" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="Drawer_right.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="32" name="Drawer_stuff" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="Drawer.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="36" name="Plant" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="Plant.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="37" name="Bookshelf" tilewidth="32" tileheight="32" tilecount="6" columns="2">
+  <image source="Bookshelf.png" width="64" height="96"/>
+ </tileset>
+ <tileset firstgid="43" name="HallwayRug" tilewidth="32" tileheight="32" tilecount="3" columns="3">
+  <image source="HallwayRug.png" width="96" height="32"/>
+ </tileset>
+ <tileset firstgid="46" name="Kitchen_Floor" tilewidth="32" tileheight="32" tilecount="20" columns="4">
+  <image source="KitchenFloor.png" width="128" height="160"/>
+ </tileset>
+ <tileset firstgid="66" name="Dogbowl_right" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="Dogbowl_right.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="70" name="Counters" tilewidth="32" tileheight="32" tilecount="6" columns="2">
+  <image source="Counters.png" width="64" height="96"/>
+ </tileset>
+ <tileset firstgid="76" name="Table" tilewidth="32" tileheight="32" tilecount="6" columns="2">
+  <image source="Table.png" width="64" height="96"/>
+ </tileset>
+ <tileset firstgid="82" name="Stove" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="Stove.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="86" name="KitchenRug (2)" tilewidth="32" tileheight="32" tilecount="3" columns="3">
+  <image source="KitchenRug.png" width="96" height="32"/>
+ </tileset>
+ <tileset firstgid="89" name="Fruits" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="Fruits.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="90" name="Sink" tilewidth="32" tileheight="32" tilecount="6" columns="2">
+  <image source="Sink.png" width="64" height="96"/>
+ </tileset>
+ <tileset firstgid="96" name="Dogbowl" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="Dogbowl.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="100" name="Stove_left" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="Stove_left.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="104" name="Counters_right" tilewidth="32" tileheight="32" tilecount="6" columns="2">
+  <image source="Counters_right.png" width="64" height="96"/>
+ </tileset>
+ <tileset firstgid="110" name="Moccamaster" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="Moccamaster.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="111" name="Table_left" tilewidth="32" tileheight="32" tilecount="6" columns="2">
+  <image source="Table_left.png" width="64" height="96"/>
+ </tileset>
+ <tileset firstgid="117" name="Bed2" tilewidth="32" tileheight="32" tilecount="8" columns="2">
+  <image source="Bed2.png" width="64" height="128"/>
+ </tileset>
+ <tileset firstgid="125" name="Drawer" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="Drawer.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="129" name="Books" tilewidth="32" tileheight="32" tilecount="2" columns="2">
+  <image source="Books.png" width="64" height="32"/>
+ </tileset>
+ <tileset firstgid="131" name="Desk" tilewidth="32" tileheight="32" tilecount="6" columns="2">
+  <image source="Desk.png" width="64" height="96"/>
+ </tileset>
+ <tileset firstgid="137" name="Clothes" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="Clothes.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="141" name="BedroomRug (2)" tilewidth="32" tileheight="32" tilecount="3" columns="3">
+  <image source="BedroomRug.png" width="96" height="32"/>
+ </tileset>
+ <tileset firstgid="144" name="Bedroom_Floor" tilewidth="32" tileheight="32" tilecount="9" columns="3">
+  <image source="BedroomFloor.png" width="96" height="96"/>
+ </tileset>
+ <tileset firstgid="153" name="mirror2" tilewidth="32" tileheight="32" tilecount="2" columns="2">
+  <image source="mirror2.png" width="64" height="32"/>
+ </tileset>
+ <tileset firstgid="155" name="mirror3png" tilewidth="32" tileheight="32" tilecount="2" columns="2">
+  <image source="mirror3png.png" width="64" height="32"/>
+ </tileset>
+ <tileset firstgid="157" name="mirror" tilewidth="32" tileheight="32" tilecount="2" columns="2">
+  <image source="mirror.png" width="64" height="32"/>
+ </tileset>
+ <tileset firstgid="159" name="shoealone" tilewidth="32" tileheight="32" tilecount="2" columns="2">
+  <image source="shoealone.png" width="64" height="32"/>
+ </tileset>
+ <tileset firstgid="161" name="shoes" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="shoes.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="162" name="shoes2" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="shoes2.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="163" name="shoes3" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="shoes3.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="164" name="sneaker_separate" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="sneaker_separate.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="165" name="sneaker_separate2" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="sneaker_separate2.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="166" name="sneaker2" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="sneaker2.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="167" name="sneakers" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="sneakers.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="168" name="wardrobe2" tilewidth="32" tileheight="32" tilecount="3" columns="1">
+  <image source="wardrobe2.png" width="32" height="96"/>
+ </tileset>
+ <tileset firstgid="171" name="wardrobe" tilewidth="32" tileheight="32" tilecount="3" columns="1">
+  <image source="wardrobe.png" width="32" height="96"/>
+ </tileset>
+ <tileset firstgid="174" name="wardrobe2" tilewidth="32" tileheight="32" tilecount="3" columns="1">
+  <image source="wardrobe2.png" width="32" height="96"/>
+ </tileset>
+ <tileset firstgid="177" name="clothes_stand3" tilewidth="32" tileheight="32" tilecount="3" columns="1">
+  <image source="clothes_stand3.png" width="32" height="96"/>
+ </tileset>
+ <tileset firstgid="180" name="clothes-stand" tilewidth="32" tileheight="32" tilecount="3" columns="1">
+  <image source="clothes-stand.png" width="32" height="96"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="9" height="549">
+  <data encoding="base64" compression="zlib">
+   eJztmEdOw2AUBg2h11BuQYlEqKFfArgURSAQx2UW+SVv/hcWsWNbs5iVR/M9IqWIXlEUC3AAhyWOYBO2YBGWMs429GEZVjLODuzCKqxlnHXYgF6N98zBvPd4j/d4zwzuiT4P92C/5numtRV10lbUSVvRzW655ZZbbrnllltuVb/lb/Xm3NO018d7vKct9xzDAJ7gucQLXMIVnMAw49zArZ3KO6dwZsdORzrTfn+dw8WEzgiua7qniZ1Jr09b/y471XWa9rlhx44dO3a63UlO1EnfcVFnMG5EneG4Yad7nchJnWjLjh07duzYsWPHjp02dP7zv+47uM84D/AIH/AJr/BW4r307Au+M056pqOjo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6OjM1vnB34zTnr2B3Hagy0=
+  </data>
+ </layer>
+ <layer id="2" name="Tile Layer 2" width="9" height="549">
+  <data encoding="base64" compression="zlib">
+   eJztm/lyVUUQxs9jkMUYFRH5R30BHVkEZBG3f1ijsoMFIi64TkICBHwBVKwk5OJrzKP4KP5ObrWFVbe75+YMh1OV8xVddavOx+mZ6e6vZyb3TlZVNVWNxgz2IvZ7Vc0plA3Uzx86HO95Kaxs/MvDaiHOWiGOM45/Gr5iA8QhEK8wy+eXHM7LfH7F4eT4XDNiwrxizjtKgnHHhw39Ps7krI+Rj5vFNPaCw5FazsH2ZsP5D9uwCeWZjHmy8vXnieNnwBr/7XOSFYs/sD+dd+RwcjFw9LBUTMnzOt87hToOgwyelT8CK38EzD+xDilnbJvFagt1/iwxcNbnScb6rWZw1jI5Vn2sD+vdfU+bmK30fiqw+qmgjVwthUfYX897EE9hUGiPVBrrLcQzV+e93l6q73TtPTVK7eXrfd3A0Xtvz1LD27OU7t1d05bZytdMYp+mnTGXOsd1CeRYQlvTI2Puj511KZ0/bZxza9QaRT2nGWV+oglWbvR3F/3dRX93MRpb/e7iTewt49kbmb7axDXsuvLsMHYE+wq7oXCOYh9gX2M3Fc4x7MMGY3we2I3tcTh7sX3Ye9h+hXMRu4Qdx04onMvYFewkdkrhXMW+xE5jZxxfB7CDjq/3sUMK5yx2rrLndR67UMCXzCtnDUv56gpkXhZkXhZkXnPYZw73c+yLnMG1BOIVDik9k3kF5hWIeziocFifwPoE8ifsVzgXh+8p5qvOMc0XdREuDDmqL+ornMv0Rb2HM8a8yJ+AboRTzrzQn3Ci4RpecvY26GHY53DQ1bAnc4/UJuhf4aYyLvpXoH8F+mC4oXDog4E+GOin4brCoZ+GIx2ce5vI2Uf1mtBrQhfQa0I7IBfTVeW+hXpJ1E0iF9NlhUO9pANDXp2TIznkcCKXUylf1HM6b/iqtYV6TmcL+KLGkjYvdCCdduaFDqSTji90IB13fMkaUs9pr3NHSD2n3R26E84B9ZyOKWNGBxJ6kKjndFThoAMJPUjUczqscNCBdK3guljnJoF1bhJY56ZdjPf1YexVXzt5/towX1VfO3j+6jDP1LNwjXqPYJ2FBdZZWGDNS/AR9rHyTOb+CZ8/VTgyd8uXzL1UvOaqbp31rHskqR3rHklqx7pHktrp76xGo7+z6u+sugDZk1gc2ZNYHNmT5Pj0ekqNUj3FguzrLI7s6yyO7LUaDGVs9Lo6GqKr1t1Fr6tbW1ffxt5RngXs3YK+SsG7i6uf/4z9ojyfQp8msV8r/Q/HEzzfhn3D528VzjJ2H/sO+17hPMB+w25hPzjj+ZHPPznjuc3nRYUzjy1gS9gdZ8x3sXvOmJuC9yf8JCsWjDMtObFYHM475fhcyPhuynzD76/IGlqQNZSYWLByrBq+Y8XKMYGVYwIrx3Ig50qLI+dKa+5yrmwwlP+h6W805HsXVmzlexc59bHd+E6KrAs1H6aUO1TqJVI3kZoPEwoHB5G6iYw3Liv+yKtIfkXGGx8oHPIqkl/RGg95FW854yGvIvkVmVucV3xRy/G2830dNCEuORy0Jd51OOPUaQ5K1Clrs9LX6eZRsk7rsVgxlf5lxVT6lxVT6V9WTCVe1m98JF7Wb3wkXqVzv8doWDovOkgOhXuKZoo+k0PhjsIRfSaHwqKjz+RQ2OXoMzkUdiqciaHGR3Io7FA4U8NeEUc9E1g9SWD1pK0CK14CK14CK16Sh5bWSV92tG6jL1taJ33ZOcts5JiVI5JjOTnSZq7ND3+mMRJSywsGR2rZ8iG1bHGkltvMH+v/l0StqfT4OO34pMfHGYUzTk5Y+x/py9a5W/qyde6WvmyduyV/rD3AU3t1dQ8wTv5YnDb3EP1dQR76M0hzdOkM4iHn/kh0w9Io0Q1Lo0Q3LI3K0Q1Bf087Gjn3tAIrFgJrDQXWGo6Drmlm0/tV3rOy7Ggmflbu95rZCKU104t7f7fz7PuO4F9JcKxO
+  </data>
+ </layer>
+ <layer id="5" name="Tile Layer 3" width="9" height="549">
+  <data encoding="base64" compression="zlib">
+   eJzt2DtSAzEMBmAdhSIJIaeg4nkCupwgN+CVjscNoEhBkWySgmftoyHzmKEAW4wVW+v9vxlVq9lRdm1ZWSJbBoFrIyK3wzEM5PA1t80xEuSE6tDK4d/j+pEcACseiHZL19AVS0HOSpCzTi0E1LwIcl4FOW+phQg9CnKeBDnPqYVsAJ+7wXnC4/ObQvOExzMHheaJteB8XwlylpnnhFr7T+yde7F33kRmSG8heF/zzO+0EZzfC0HOPOMccM/P6C7wnHq5CgGVnvn1Py3YM4eCfTFQ2juN4D4W9zK0C75dAJSj+e0iNnNgJoEUmuvnRPFeqSYdPi/QE9Jprh9L+wKga3gvj5Xu4zTu46EnAJQ1KV3AD+gH0CaS/xhaOQAAm2Dp3LVUi7Y9jv1IzgHHoULOEcexsK62qHltQH0srVdL//OgXlOiWekaANoG3wAA7MM+rcsFkTvnuAzMLWd8/ZQjNttgbXTXFcd1JOeG4/aPa6H19+0/s3XvY2nDb/hZb8VypoIcqFOuvWPxvNDqQ9r9DAA+WewbAABWoWfW6R2xrlf1
+  </data>
+ </layer>
+</map>

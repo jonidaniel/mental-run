@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="9" height="200" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="1">
+ <tileset firstgid="1" name="Level2Floor" tilewidth="32" tileheight="32" tilecount="2" columns="2">
+  <image source="Level2Floor (2).png" width="64" height="32"/>
+ </tileset>
+ <tileset firstgid="3" name="Level2Track" tilewidth="32" tileheight="32" tilecount="5" columns="5">
+  <image source="Level2Track (2).png" width="160" height="32"/>
+ </tileset>
+ <tileset firstgid="8" name="chalkboard2" tilewidth="32" tileheight="32" tilecount="3" columns="1">
+  <image source="chalkboard2.png" width="32" height="96"/>
+ </tileset>
+ <tileset firstgid="11" name="desk" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="desk.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="15" name="desk_empty" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="desk_empty.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="19" name="desk2" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="desk2.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="23" name="desk3" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="desk3.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="27" name="door" tilewidth="32" tileheight="32" tilecount="2" columns="1">
+  <image source="door.png" width="32" height="64"/>
+ </tileset>
+ <tileset firstgid="29" name="locker" tilewidth="32" tileheight="32" tilecount="3" columns="1">
+  <image source="locker.png" width="32" height="96"/>
+ </tileset>
+ <tileset firstgid="32" name="locker2" tilewidth="32" tileheight="32" tilecount="3" columns="1">
+  <image source="locker2.png" width="32" height="96"/>
+ </tileset>
+ <tileset firstgid="35" name="school_pench" tilewidth="32" tileheight="32" tilecount="3" columns="1">
+  <image source="school_pench.png" width="32" height="96"/>
+ </tileset>
+ <tileset firstgid="38" name="school_pench2" tilewidth="32" tileheight="32" tilecount="3" columns="1">
+  <image source="school_pench2.png" width="32" height="96"/>
+ </tileset>
+ <tileset firstgid="41" name="school_pench3" tilewidth="32" tileheight="32" tilecount="3" columns="1">
+  <image source="school_pench3.png" width="32" height="96"/>
+ </tileset>
+ <tileset firstgid="44" name="Plant" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="Plant.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="45" name="Books" tilewidth="32" tileheight="32" tilecount="2" columns="2">
+  <image source="../run3_map/Books.png" width="64" height="32"/>
+ </tileset>
+ <tileset firstgid="47" name="Level2Track (2)" tilewidth="32" tileheight="32" tilecount="5" columns="5">
+  <image source="Level2Track (2).png" width="160" height="32"/>
+ </tileset>
+ <tileset firstgid="52" name="Level2Floor (2)" tilewidth="32" tileheight="32" tilecount="2" columns="2">
+  <image source="Level2Floor (2).png" width="64" height="32"/>
+ </tileset>
+ <tileset firstgid="54" name="Character2" tilewidth="32" tileheight="32" tilecount="0" columns="2">
+  <image source="Character2.png" width="64" height="64"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="9" height="200">
+  <data encoding="base64" compression="zlib">
+   eJztyrERwCAQxMDvCIOf/lvjAqpgNlCk7araaaQvzbTSn/q+ZhiGYRiGYRiGYRiGYRiGYRiGYRjmCXMArUZjiA==
+  </data>
+ </layer>
+ <layer id="6" name="Tile Layer 6" width="9" height="200">
+  <data encoding="base64" compression="zlib">
+   eJztzrENACAMA0H3wP4to7JEpETorn7JTgDqrGFbp6jpsJPb/QEAAAAAgP88moUA3Q==
+  </data>
+ </layer>
+ <layer id="2" name="Tile Layer 2" width="9" height="200">
+  <data encoding="base64" compression="zlib">
+   eJztmFFuwjAMhv24QctWNmAbUAobD4gdKkfJ0XqUHGV/VPy22JYWdVuVX/KTP8UuLqltIl1bIq/4aacwO0OcqL1yDvzUKkxrZ/oc5xwU5iA5b3qHnZV8PgYTmfNwlshMNVZUp9QCfjoqzHGizMnAbAdOZPi/PDfUo87EWGL9RC9E7g0mMRv4XxWmqKjof2hvYFoDY/m+R43RR+GepAqGuyzgTgvfMbhvaQHDXRY2CSaqgy3hfxSY+N1p4H9QmFznrOF/VpgV/E8jnBO/p2P2xkVFU9HstxMoKiqarK7KvHgZTGSuGfPJJWlO5R5LmlO5x0Lv49YJhnsj9D5ulWC4N5LyQY8ZKiUf9KJhPuTtlgmGYyBv1yQYjoF4bpFgOAbiuTrBcIwx+7ou085K29ucjPmM8eyohcdv7e+Ec1Arj1r4e4FBvT3q6WcCg/fB10q+iNU3t/ugSufcI+ee56eU8EzxfYzvbVJ4pjh/xTlNZHiekxgtH2uvVfb8MmPZ839KAE139172/H+Hybnn/wKlA3Qp
+  </data>
+ </layer>
+ <layer id="3" name="Tile Layer 3" width="9" height="200">
+  <data encoding="base64" compression="zlib">
+   eJztlltug0AMRe9nkz6Spq+0kActfCTZBEvLUrqULIWl1FPwV8HXlRCqVB9pfjKH3PEgYQNBEAS/ZwF89v3+AOzZs+tuWbx1615yrKwnWSvZXw44j7L/3DqNOI2VKVnNgjgecuDCnIw4mS8HFfmfD1klccrWM51q4iyp/2w56X5y4uRtlulIVl0SR/brijiSU7Os7n5YFlhWBV7XmFnv5H1tZBXE2eL7w2A6O/jqGuPMCXbmxN7hBEHwk+uJs27I3q2suwFH96T/YzngyLyR5ok0J2A14Mg8Apk38ILhGUczXtHOOH1ohmb2oRma2YdmWHXp/Vh16f1Y96wZ1j1rxlj93cPO0b+2jv61cfQvD3+pdyfG6IOZIysfKStxcjhH4kgODsQpHFmFI6twZrEZOzlsxk4Om7HlXdG65Ly0riN4XaeJs6Zkyu8Y48rhzFrvzJyZw5k7HMbc4STYmbs86rAzB0EQBMF/5wsAZ0Ud
+  </data>
+ </layer>
+ <layer id="4" name="Tile Layer 4" width="9" height="200">
+  <data encoding="base64" compression="zlib">
+   eJzt1U0OgjAQBeBZAooxguJPd8DCeEmO4lE8So/ia4g7Z9pEZAHvSyZDOi9t0w0iRLQUjcjTmA1TnXPBObGzDiJ+jzL2GK7Y42zsM7cNaqvMaty3QpX43imZE+bHyDsj42vjXQLs4atIhoiI1qHFf6VV/i1hPUPv0DslE9Zz9B69VzJhvZj5LCfy+jb/uI1lZpw1nFiWkMlXnCkSMkS/uCdkHn+/BRERERHRsrwBpwEb6g==
+  </data>
+ </layer>
+ <layer id="5" name="Tile Layer 5" width="9" height="200">
+  <data encoding="base64" compression="zlib">
+   eJzt1sENhCAQheE5Gj16MNuDWoOlUMqWYilb2mJijBmVRSCsmv+7oTAPIqitIIf23xPAbVQio+NesMZRN6WXzTna73b+n9C6dqwJHTvpd67VIu91u5jbrqxSjdGKbYbRWaXqE7u2ucaS9aNfkqwUdU7kObN8zkXM2VF1TK4sHwnXNXj2M3fKuoLc3/+9dx3wZPxjAwCeiO9bvC5zHs8MV8A+BHDWF5evDKY=
+  </data>
+ </layer>
+</map>
