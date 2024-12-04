@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="fi.tuni.mentalrun" >
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <application
@@ -11,7 +10,7 @@
         android:label="Mental Run"
         android:theme="@style/GdxTheme" >
         <activity
-            android:name="fi.tuni.mentalrun.AndroidLauncher"
+            android:name="fi.tuni.mental_run.AndroidLauncher"
             android:exported="true"
             android:label="Mental Run"
             android:screenOrientation="portrait"

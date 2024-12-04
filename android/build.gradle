@@ -1,5 +1,5 @@
 android {
-    namespace "fi.tuni.mentalrun"
+    namespace "fi.tuni.mental_run"
     buildToolsVersion "30.0.3"
     compileSdkVersion 34
     sourceSets {
@@ -20,7 +20,7 @@ android {
         }
     }
     defaultConfig {
-        applicationId "fi.tuni.mentalrun"
+        applicationId "fi.tuni.mental_run"
         minSdkVersion 14
         targetSdkVersion 34
         versionCode 2
