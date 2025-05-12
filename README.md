@@ -20,9 +20,10 @@
 ## Status
 
 - Initially published on [Google Play](https://play.google.com/store/games) in April 28, 2021
-  - Mental Run is now in re-publishing
-  - Not available from Google Play right now, but wil be later this summer
-  - You can still try out the testing version now by downloading the APK-file in /???
+  - Now in re-publishing
+  - Not downloadable right now, but will be later this summer
+  - You can still try out the testing version now by opening the APK-file with an Android device
+    - The file can be found in `/android/build/intermediates/apk/debug/android-debug.apk`
 
 ## Usage
 
@@ -48,7 +49,7 @@
   - [Adobe Photoshop](https://www.adobe.com/fi/products/photoshop.html)
 - Testing tools
   - [Huawei](https://www.huawei.com/en/) Y5 AMN-LX-9 (Android version 9.1.0.355)
-  - [Nokia](https://www.nokia.com) ???
+  - [Nokia](https://www.nokia.com) C32 (Android version 13)
 - Communications tools
   - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
   - [Discord](https://discord.com)
