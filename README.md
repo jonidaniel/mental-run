@@ -5,11 +5,23 @@
 
 ## Links to external material
 
+- Emphathizing Way to Build Social Inclusion project info page
+  - https://www.tuni.fi/fi/tutkimus/elaytyen-osalliseksi
+- 20Tiko Game Portal
+  - https://webpages.tuni.fi/20tiko/#en
+- Mental Run site
+  - https://jonidaniel.github.io/mentalrun/
+- Mental Run trailer video
+  - https://www.youtube.com/watch?v=PSHA4EaZC10
+- Mental Run pitch video
+  - https://www.youtube.com/watch?v=GwV_IF0kjzw
+
 ## Status
 
-- Initially published in Google Play on 28.4.2021
-
-- Mental Run is now in re-development
+- Initially published in Google Play on April 28, 2021
+  - Mental Run is now in re-publishing
+  - Not available from Google Play right now, but later this summer
+  - You can still try out the testing version now by downloading the APK-file in /???
 
 ## Usage
 
@@ -18,7 +30,10 @@
 
 ## Screenshots
 
-![](screenshots/.png?raw=true)
+![](screenshots/large-in-game-view.png?raw=true)
+![](screenshots/large-main-menu.png?raw=true)
+![](screenshots/large-tutorial-view.png?raw=true)
+![](screenshots/large-game-over-view.png?raw=true)
 
 ## Technologies & Tools
 
