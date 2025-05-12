@@ -2,6 +2,7 @@
 
 - A 2D top-down runner for Android devices
   - Steer a mental teenager during three different levels: waking up at home, arriving at school, and when preparing for bed in the evening! Collect beneficial things on the way and try to avoid the bad ones!
+- Mental Run won its category, _Developer’s Choice_, at Game Fair organized by Tampere University of Applied Sciences in the spring of 2021
 
 ## Links to external material
 
@@ -30,10 +31,10 @@
 
 ## Screenshots
 
-![](screenshots/large-in-game-view.png?raw=true)
-![](screenshots/large-main-menu.png?raw=true)
-![](screenshots/large-tutorial-view.png?raw=true)
-![](screenshots/large-game-over-view.png?raw=true)
+![](screenshots/in-game-view.png?raw=true)
+![](screenshots/main-menu.png?raw=true)
+![](screenshots/tutorial-view.png?raw=true)
+![](screenshots/game-over-view.png?raw=true)
 
 ## Technologies & Tools
 

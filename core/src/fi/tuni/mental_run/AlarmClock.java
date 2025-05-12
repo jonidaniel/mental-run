@@ -45,7 +45,8 @@ public class AlarmClock extends Collectible {
      */
     public void reduceFiller() {
         // Reduces the value of alarm clock filler to zero.
-        // In generateFiller(), a new value is generated for the filler when it hits zero.
+        // In generateFiller(), a new value is generated for the filler when it hits
+        // zero.
         filler = filler - 1;
     }
 }
