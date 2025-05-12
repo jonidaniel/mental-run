@@ -1,8 +1,8 @@
 # Mental Run
 
-- A 2D top-down runner for Android devices
+- A 2D top-down runner for [Android](https://www.android.com) devices
   - Steer a mental teenager during three different levels: waking up at home, arriving at school, and when preparing for bed in the evening! Collect beneficial things on the way and try to avoid the bad ones!
-- Mental Run won its category, _Developer’s Choice_, at Game Fair organized by Tampere University of Applied Sciences in the spring of 2021
+- Mental Run [won its category](https://webpages.tuni.fi/20tiko/#en), _Developer’s Choice_, at [Game Fair](https://webpages.tuni.fi/20tiko/#en) organized by [Tampere University of Applied Sciences](https://www.tuni.fi/en/about-us/tamk) in the spring of 2021
 
 ## Links to external material
 
@@ -19,9 +19,9 @@
 
 ## Status
 
-- Initially published in Google Play on April 28, 2021
+- Initially published on [Google Play](https://play.google.com/store/games) in April 28, 2021
   - Mental Run is now in re-publishing
-  - Not available from Google Play right now, but later this summer
+  - Not available from Google Play right now, but wil be later this summer
   - You can still try out the testing version now by downloading the APK-file in /???
 
 ## Usage
@@ -39,23 +39,23 @@
 ## Technologies & Tools
 
 - Languages
-  - Java
-  - Python
+  - [Java](https://www.java.com/en/)
+  - [Python](https://www.python.org)
   - XML
 - Development tools
-  - Android Studio
-  - LibGDX
-  - Adobe Photoshop
+  - [Android Studio](https://developer.android.com/studio)
+  - [LibGDX](https://libgdx.com)
+  - [Adobe Photoshop](https://www.adobe.com/fi/products/photoshop.html)
 - Testing tools
-  - Huawei Y5 AMN-LX-9 (Android version 9.1.0.355)
-  - Nokia ???
+  - [Huawei](https://www.huawei.com/en/) Y5 AMN-LX-9 (Android version 9.1.0.355)
+  - [Nokia](https://www.nokia.com) ???
 - Communications tools
-  - Microsoft Teams
-  - Discord
+  - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+  - [Discord](https://discord.com)
 - Version control tools
-  - Git
-  - GitHub
-  - Trello
+  - [Git](https://git-scm.com)
+  - [GitHub](https://github.com)
+  - [Trello](https://trello.com)
 
 ## Team
 
