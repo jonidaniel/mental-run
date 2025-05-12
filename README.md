@@ -17,18 +17,15 @@
 - Mental Run pitch video
   - https://www.youtube.com/watch?v=GwV_IF0kjzw
 
-## Status
+## Status & Usage
 
 - Initially published on [Google Play](https://play.google.com/store/games) in April 28, 2021
   - Now in re-publishing
   - Not downloadable right now, but will be later this summer
   - You can still try out the testing version now by opening the APK-file with an Android device
     - The file can be found in `/android/build/intermediates/apk/debug/android-debug.apk`
-
-## Usage
-
-- If you like, you can clone this repo with
-  - `git clone https://github.com/jonidaniel/mental-run`
+  - If you like, you can clone this repo with
+    - `git clone https://github.com/jonidaniel/mental-run`
 
 ## Screenshots
 
